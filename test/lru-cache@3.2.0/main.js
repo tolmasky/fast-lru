@@ -18,7 +18,7 @@ for (x = 0; x < 1000000000; ++x)
     total += new Date() - d;
     var length = lru.length;
 
-    if (x % 1000 === 0)
+    if (x % 10000 === 0)
     {
         console.log(x + "\t" + (total / 1000) + "\t" + length);
         total = 0;
