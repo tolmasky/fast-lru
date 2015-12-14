@@ -1,0 +1,13 @@
+{
+  "name": "lru-test-v0.0.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "",
+  "dependencies": {
+    "uuid": "^2.0.1"
+  }
+}
