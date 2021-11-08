@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/playgroundtheory/fast-lru.git"
+    "url": "git+https://github.com/runkit-open-source/fast-lru.git"
   },
   "keywords": [
     "lru"
@@ -16,9 +16,9 @@
   "author": "Francisco Ryan Tolmasky I",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/playgroundtheory/fast-lru/issues"
+    "url": "https://github.com/runkit-open-source/fast-lru/issues"
   },
-  "homepage": "https://github.com/playgroundtheory/fast-lru#readme",
+  "homepage": "https://github.com/runkit-open-source/fast-lru#readme",
   "devDependencies": {
     "tap": "^3.3.1"
   }
